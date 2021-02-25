@@ -41,7 +41,6 @@ Acerca de mi
 - Estudio actualmente en ITT, en Ing. en TIC en 8vo semestre
 - Trabajo actualmente en un taller de reparacion de computadoras
 - Me gusta los videojuegos y disfruto ver peliculas y series
-- 
 
 
 Contacto
