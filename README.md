@@ -4,9 +4,9 @@
 
 ![](https://github.com/MoisesMM99/Analisis-Avanzado-de-Software-Mancilla-Mora/blob/main/img/logoTIC.png)
 
-### Bienbenidos a mi perfil 👋
+### Bienvenidos a mi perfil 👋
 
-Hola, soy Moises Mancilla Mora, estudiante de Ing. en Tecnologias de la Informacion y Comunicacion en el Instituto Tecnologico de Tijuana,
+Hola, soy Moises Mancilla Mora, estudiante de Ing. en Tecnologias de la Informacion y Comunicaciones en el Instituto Tecnologico de Tijuana,
 
 Areas de conociminetos
 
